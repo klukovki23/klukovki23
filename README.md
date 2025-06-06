@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kseniia, Computer Science student in Oulu, Finland
-- 👀 I’m interested in Software Development, Testing and UI/UX design
-- 🌱 I’m currently learning Web Development using Ruby on Rails
+- 👀 I’m interested in Software Development, UI/UX design, Front-end Development
+- 🌱 I’m currently learning Web Development and Android development
 - 📫 You can reach me by email: ksenialukovkina@gmail.com
 
 
