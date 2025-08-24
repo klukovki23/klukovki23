@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kseniia, Computer Science student in Oulu, Finland
-- 👀 I’m interested in Software Development, UI/UX design, Front-end Development
-- 🌱 I’m currently learning Web Development and Android development
+- 👋 Hi, I’m Kseniia, Information Processing Science student in Oulu, Finland
+- 👀 I’m interested in Web Development, UX/UI design and Mobile Development
+- 🌱 I’m currently learning Full Stack development 
 - 📫 You can reach me by email: ksenialukovkina@gmail.com
 
 
